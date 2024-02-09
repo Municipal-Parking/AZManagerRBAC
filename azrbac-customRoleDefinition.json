@@ -7,6 +7,8 @@
         "Microsoft.Support/*"
     ],
     "NotActions": [
+    ],
+    "AssignableScopes": [
         "/providers/Microsoft.Management/managementGroups/AZTestMGR",
         "/subscriptions/bf9c1dcf-7291-4909-9786-ab2e12e3a062"
     ]
